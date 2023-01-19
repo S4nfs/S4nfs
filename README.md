@@ -1,14 +1,44 @@
-<h2 align="center">My contribution Streak !! :fire:</h2> 
+<h1 align="center">👋, I'm Sagar Verma</h1>
+<h3 align="center">A passionate full stack developer and linux lover</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s4nfs&label=Profile%20views&color=0e75b6&style=flat" alt="s4nfs" /> </p>
+
+- 🔭 I’m currently working on **Bulding a high-performance cloud computing platform.**
+
+- 🌱 I’m currently learning **日本人**
+
+- 👯 I’m looking to collaborate on **[Arclight Project](https://github.com/Chatnaut/Arclight)**
+
+- 📝 I regularly update courses on Programming Languages & Frameworks at **[MyPROJECTS ](https://github.com/S4nfs/MyPROJECTS)**
+
+- 💬 Ask me about **Linux, Servers, Networking, Cloud Computing & DevOps**
+
+- 📫 How to reach me **sagarverma@chatnaut.com**
+
+- ⚡ Fun fact **Bash is my all-time favourite language and I haven't watched Avengers yet.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sagar4nfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagar4nfs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sagar verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar verma" height="30" width="40" /></a>
+</p><br>
+
+<h3 align="left">Kamehameha:</h3>
+
+![My Skills](https://skillicons.dev/icons?i=aws,azure,react,redux,nodejs,apollo,bash,bootstrap,cloudflare,docker,express,git,github,graphql,js,jenkins,jquery,laravel,linux,mongodb,mysql,nginx,php,pug,tailwind,vite,vscode&perline=16)
+
+<br>
+
+## <h3 align="center">My contribution Streak 🔥🔥</h2>
+
 <p align="center">
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=S4nfs&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 </p>
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
- 
-    
 ## <h3 align="center">GitHub Stats</h3>
+
 <p align="center">
   <a href="#">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=S4nfs&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
@@ -16,23 +46,17 @@
 </p>
 
 ## <h3 align="center">Most Used Languages</h3>
+
 <p align="center">
   <a href="#">
   <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nfs&theme=blue-grey&layout=compact&langs_count=10)" />
   </a>
 </p>
 
-## <h3 align="center">My Contribution Graph</h3>
-<p align="center">
-  <a href="#">
-  <img src="https://activity-graph.herokuapp.com/graph?username=S4nfs&theme=react-dark" alt="Contribution Graph" />
-  </a>
-</p>
-
 ## <h3 align="center">Here's some humor for you:</h3>
+
 <p align="center">
   <a href="#">
   <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
   </a>
 </p>
-
