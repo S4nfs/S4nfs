@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s4nfs&label=Profile%20views&color=0e75b6&style=flat" alt="s4nfs" /> </p>
 
-- 🔭 I’m currently working on **Bulding a high-performance cloud computing platform.**
+- 🔭 I’m currently working on **Building a high-performance cloud computing platform.**
 
 - 🌱 I’m currently learning **日本人**
 
