@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Building a high-performance cloud computing platform.**
 
+- 📁 **[My portfolio](https://hall-of-projects.onrender.com/)**
+
 - 🌱 I’m currently learning **日本人**
 
 - 👯 I’m looking to collaborate on **[Arclight Project](https://github.com/Chatnaut/Arclight)**
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **sagarverma@chatnaut.com**
 
-- ⚡ Fun fact **Bash is my all-time favourite language and I haven't watched Avengers yet.**
+- ⚡ Fun fact **Bash is my all-time favourite language and I haven't watched The Avengers yet.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
