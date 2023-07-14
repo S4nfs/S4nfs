@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="#">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nfs&theme=blue-grey&layout=compact&langs_count=10)" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nfs&theme=blue-grey&layout=compact&langs_count=10" />
   </a>
 </p>
 
