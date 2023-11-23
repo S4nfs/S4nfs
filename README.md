@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s4nfs&label=Profile%20views&color=0e75b6&style=flat" alt="s4nfs" /> </p>
 
-- 🔭 I’m currently working on **Building a high-performance cloud computing platform.**
+- 🔭 I’m currently working on a **[Stealth Project](https://github.com/S4nfs/Sekkeizu)**
 
 - 📁 **[My portfolio](https://hall-of-projects.onrender.com/)**
 
