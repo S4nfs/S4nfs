@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Sagar Verma</h1>
 <h3 align="center">A passionate full stack developer and linux lover</h3>
 
-<a> <image align="right" src="https://camo.githubusercontent.com/6ad802fd496310400fdf3d955db46d2f005a28d10db29d98d112a67ee98181b5/68747470733a2f2f692e696d6775722e636f6d2f717448776656732e676966" alt="glitch in my life" height="300" width="400" alt="Autoplay GIF"  autoplay/></a>
+<a> <image align="right" src="https://i.imgur.com/qtHwfVs.gif" alt="glitch in my life" height="300" width="400" autoplay/></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s4nfs&label=Profile%20views&color=0e75b6&style=flat" alt="s4nfs" /> </p>
