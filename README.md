@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Sagar Verma</h1>
-<h3 align="center">A passionate full stack developer and linux lover</h3>
+<h3 align="center">A Full-stack developer who enjoys the cloud through code and envisions the future through AI</h3>
 
 <a> <image align="right" src="https://i.imgur.com/qtHwfVs.gif" alt="glitch in my life" height="300" width="400" autoplay/></a>
 
@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s4nfs&label=Profile%20views&color=0e75b6&style=flat" alt="s4nfs" /> </p>
 
 - 🔭 I’m currently working on a **[Stealth Project](https://github.com/S4nfs/Sekkeizu)**
+- 🧠 Building a side project named GodGPT (live soon)
 
 - 📁 **[My portfolio](https://hall-of-projects.onrender.com/)**
 
