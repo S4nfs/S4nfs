@@ -11,7 +11,7 @@
 
 - 📁 **[My portfolio](https://hall-of-projects.onrender.com/)**
 
-- 🌱 I’m currently learning **日本人**
+- 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on **[Arclight Project](https://github.com/Chatnaut/Arclight)**
 
@@ -31,7 +31,7 @@
 
 <h3 align="left">Kamehameha:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=aws,azure,react,redux,nodejs,apollo,bash,bootstrap,cloudflare,docker,express,git,github,graphql,js,jenkins,jquery,laravel,linux,mongodb,mysql,nginx,php,pug,tailwind,vite,vscode&perline=16)
+![My Skills](https://skillicons.dev/icons?i=aws,azure,react,redux,nodejs,apollo,bash,bootstrap,cloudflare,docker,express,git,github,graphql,js,jenkins,jquery,laravel,linux,mongodb,mysql,prisma,nginx,php,pug,tailwind,vite,nextjs,typescript,vscode&perline=16)
 
 <br>
 
