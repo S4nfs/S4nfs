@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a **[Stealth Project](https://github.com/S4nfs/Sekkeizu)**
 - 🧠 Built for Devs **[GodGPT](http://godgpt.chatnaut.com/)**
-
+- ⚡ Building **[Insan80](https://github.com/S4nfs/insan80)** (Perplexity AI but on TPUs)
 - 📁 **[My portfolio](https://hall-of-projects.onrender.com/)**
 
 - 🌱 I’m currently learning **GoLang**
