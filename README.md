@@ -11,7 +11,7 @@
 - ⚡ Building **[Insan80](https://github.com/S4nfs/insan80)** (Perplexity AI but on TPUs)
 - 📁 **[My portfolio](https://hall-of-projects.onrender.com/)**
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **GoLang** and **ML**
 
 - 👯 I’m looking to collaborate on **[Arclight Project](https://github.com/Chatnaut/Arclight)**
 
