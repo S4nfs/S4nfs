@@ -8,14 +8,14 @@
 
 - 🔭 I’m currently working on a **[Stealth Project](https://github.com/S4nfs/Sekkeizu)**
 - 🧠 Built for Devs **[GodGPT](http://godgpt.chatnaut.com/)**
-- ⚡ Building **[Insan80](https://github.com/S4nfs/insan80)** (Perplexity AI but on TPUs)
+- ⚡ Building **[Insan80 AI](https://github.com/S4nfs/insan80)** (Advanced Perplexity AI on TPUs)
 - 📁 **[My portfolio](https://hall-of-projects.onrender.com/)**
 
 - 🌱 I’m currently learning **GoLang** and **ML**
 
 - 👯 I’m looking to collaborate on **[Arclight Project](https://github.com/Chatnaut/Arclight)**
 
-- 📝 I regularly update courses on Programming Languages & Frameworks at **[MyPROJECTS ](https://github.com/S4nfs/MyPROJECTS)** & for DSA Fans **[Algolisa - The Famous repo of Leonardo Da Vinci ](https://github.com/S4nfs/Algolisa)** (Sponsors only)
+- 📝 I regularly update courses on Programming Languages & Frameworks at **[MyPROJECTS ](https://github.com/S4nfs/MyPROJECTS)** & for DSA Fans **[Algolisa](https://github.com/S4nfs/Algolisa)**
 
 - 💬 Ask me about **Linux, Servers, Networking, Cloud Computing & DevOps**
 
