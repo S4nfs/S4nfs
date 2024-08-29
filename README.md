@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **AI, Servers, Networking, Cloud, Ventures**
 
-- ⚡ Fun fact **I am INTJ**
+- ⚡ Fun fact: **I am INTJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
