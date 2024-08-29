@@ -8,20 +8,18 @@
 
 - 🔭 I’m currently working on a **[Stealth Project](https://github.com/S4nfs/Sekkeizu)**
 - 🧠 Built for Devs **[Aether GPT](https://gen1.insan80.com/)**
-- ⚡ Building **[Insan80 AI](https://github.com/S4nfs/insan80)** (Advanced Perplexity AI on TPUs)
+- ⚡ Building Soon **[Insan80 AI](https://insan80.com/)** (AI on TPUs)
 - 📁 **[My portfolio](https://hall-of-projects.onrender.com/)**
 
-- 🌱 I’m currently learning **GoLang** and **ML**
+- 🌱 Currently learning **GoLang** and **ML**
 
 - 👯 I’m looking to collaborate on **[Arclight Project](https://github.com/Chatnaut/Arclight)**
 
 - 📝 I regularly update courses on Programming Languages & Frameworks at **[MyPROJECTS ](https://github.com/S4nfs/MyPROJECTS)** & for DSA Fans **[Algolisa](https://github.com/S4nfs/Algolisa)**
 
-- 💬 Ask me about **Linux, Servers, Networking, Cloud Computing & DevOps**
+- 💬 Ask me about **AI, Servers, Networking, Cloud, Ventures**
 
-- 📫 How to reach me **sagarverma@chatnaut.com**
-
-- ⚡ Fun fact **Bash is my all-time favourite language and I haven't watched The Avengers yet.**
+- ⚡ Fun fact **I am INTJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
