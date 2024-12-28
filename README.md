@@ -1,23 +1,23 @@
 <h1 align="center">👋, I'm Sagar Verma</h1>
-<h3 align="center">A Full-stack developer who enjoys the cloud through code and envisions the future through AI</h3>
+<h3 align="center">A curious developer who enjoys the cloud through code and envisions the future through AI</h3>
 
 <a> <image align="right" src="https://i.imgur.com/qtHwfVs.gif" alt="glitch in my life" height="300" width="400" autoplay/></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s4nfs&label=Profile%20views&color=0e75b6&style=flat" alt="s4nfs" /> </p>
 
-- 🔭 I’m currently working on a **[Stealth Project](https://github.com/S4nfs/Sekkeizu)**
+- 🔭 Working on a **[Stealth Project](https://github.com/S4nfs/Sekkeizu)** with other Founders & VCs
 - 🧠 Built for Devs **[Aether GPT](https://gen1.insan80.com/)**
-- ⚡ Building Soon **[Insan80 AI](https://insan80.com/)** (AI on TPUs)
-- 📁 **[My portfolio](https://hall-of-projects.onrender.com/)**
+- ⚡ Experiment **[Insan80 AI](https://insan80.com/)**
+- 📁 **[Portfolio](https://hall-of-projects.onrender.com/)**
 
 - 🌱 Currently learning **GoLang** and **ML**
 
 - 👯 I’m looking to collaborate on **[Arclight Project](https://github.com/Chatnaut/Arclight)**
 
-- 📝 I regularly update courses on Programming Languages & Frameworks at **[MyPROJECTS ](https://github.com/S4nfs/MyPROJECTS)** & for DSA Fans **[Algolisa](https://github.com/S4nfs/Algolisa)**
+- 📝 I regularly update stuff on Programming Languages & Frameworks at **[MyPROJECTS ](https://github.com/S4nfs/MyPROJECTS)** & for DSA Fans **[Algolisa](https://github.com/S4nfs/Algolisa)**
 
-- 💬 Ask me about **AI, Servers, Networking, Cloud, Ventures**
+- 💬 Ask me about **AI, Servers, System design, Cloud, Ventures**
 
 - ⚡ Fun fact: **I am INTJ**
 
@@ -33,7 +33,7 @@
 
 <br>
 
-## <h3 align="center">My contribution Streak 🔥🔥</h2>
+## <h3 align="center">Productivity 🔥🔥</h2>
 
 <p align="center">
   <a href="#">
@@ -41,16 +41,16 @@
   </a>
 </p>
 
-<!-- ## <h3 align="center">GitHub Stats</h3>
+ ## <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
   <a href="#">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=S4nfs&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
   </a>
 </p>
--->
 
-## <h3 align="center">Most Used Languages</h3>
+
+## <h3 align="center">Languages i speak</h3>
 
 <p align="center">
   <a href="#">
