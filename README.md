@@ -15,9 +15,7 @@
 
 - 👯 I’m looking to collaborate on **[Arclight Project](https://github.com/Chatnaut/Arclight)**
 
-- 📝 I regularly update stuff on Programming Languages & Frameworks at **[MyPROJECTS ](https://github.com/S4nfs/MyPROJECTS)** & for DSA Fans **[Algolisa](https://github.com/S4nfs/Algolisa)**
-
-- 💬 Ask me about **AI, Servers, System design, Cloud, Ventures**
+- 📝 A beautiful world of languages **[Algolisa](https://github.com/S4nfs/Algolisa)**
 
 - ⚡ Fun fact: **I am INTJ**
 
