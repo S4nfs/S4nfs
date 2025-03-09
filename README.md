@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Sagar Verma</h1>
 <h3 align="center">A curious developer who enjoys the cloud through code and envisions the future through AI</h3>
 
-<a> <image align="right" src="https://i.imgur.com/vTBxgeG.jpeg" alt="hands of code" height="300" width="400" autoplay/></a>
+<a> <image align="right" src="https://i.imgur.com/vTBxgeG.jpeg" alt="hands of code"  width="400" autoplay/></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s4nfs&label=Profile%20views&color=0e75b6&style=flat" alt="s4nfs" /> </p>
