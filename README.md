@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Sagar Verma</h1>
-<h3 align="center">A curious developer who enjoys the cloud through code and envisions the future through AI</h3>
+<h3 align="center">A Curious Dev</h3>
 
 <a> <image align="right" src="https://i.imgur.com/vTBxgeG.jpeg" alt="hands of code"  width="400" autoplay/></a>
 
@@ -10,13 +10,9 @@
 - 🧠 Built for Devs **[Aether GPT](https://gen1.insan80.com/)**
 - ⚡ Experiment **[Insan80 AI](https://insan80.com/)**
 - 📁 **[Portfolio](https://hall-of-projects.onrender.com/)**
-
-- 🌱 Currently learning **GoLang** and **ML**
-
-- 👯 I’m looking to collaborate on **[Arclight Project](https://github.com/Chatnaut/Arclight)**
-
+- 🌱 Currently learning **Zig** and **ML**
+- 👯 Maintainer **[Arclight Project](https://github.com/Chatnaut/Arclight)**
 - 📝 A beautiful world of languages **[Algolisa](https://github.com/S4nfs/Algolisa)**
-
 - ⚡ Fun fact: **I am INTJ**
 
 <h3 align="left">Connect with me:</h3>
