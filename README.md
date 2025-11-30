@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s4nfs&label=Profile%20views&color=0e75b6&style=flat" alt="s4nfs" /> </p>
 
-- 🔭 Working on a **[Stealth Project](https://github.com/S4nfs/Sekkeizu)** with other Founders & VCs
+- 🔭 Stealthily building what others only dreamed of - on **YC**
 - 🧠 Built for Devs **[Aether GPT](https://gen1.insan80.com/)**
 - ⚡ Experiment **[Insan80 AI](https://insan80.com/)**
 - 📁 **[Portfolio](https://hall-of-projects.onrender.com/)**
-- 🌱 Currently learning **Zig** and **ML**
+- 🌱 Currently learning **Zig** and **Assembly**
 - 👯 Maintainer **[Arclight Project](https://github.com/Chatnaut/Arclight)**
 - 📝 A beautiful world of languages **[Algolisa](https://github.com/S4nfs/Algolisa)**
 - ⚡ Fun fact: **I am INTJ**
