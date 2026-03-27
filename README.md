@@ -22,4 +22,4 @@
 <a href="https://www.linkedin.com/in/sagar-verma-57ba6a1b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar verma" height="30" width="40" /></a>
 </p><br>
 
-[![S4nfs's Magine Stats](https://magine.cloud/api/github-card?user=S4nfs&theme=ayu)](https://magine.cloud/api/github-card?user=S4nfs&theme=ayu)
+[![S4nfs's Magine Stats](https://magine.cloud/api/github-card?user=S4nfs)](https://magine.cloud/api/github-card?user=S4nfs)
